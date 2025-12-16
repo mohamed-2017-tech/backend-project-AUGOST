@@ -17,3 +17,6 @@
 17/ npm install dotenv
 18/ add Models folder
 19/add product.js file to Models folder(name, price, description)
+20/ add product schema to product.js file
+21/ add productController.js file to Controller folder
+22/ add CRUD operations to productController.js file
